@@ -6,7 +6,7 @@ New features:
 Resolved issues:
 1. Fixed the issue of printing plaintext security token in debug logs
 Third-party dependence:
-1. Replaced okhttp 4.10.0 with okhttp-jvm 5.3.0
+1. Replaced okhttp 4.10.0 with okhttp-android 5.3.0
 2. Replaced okio 2.10.0 with okio-jvm 3.16.2
 3. Upgraded jackson-core to 2.21.5
 4. Upgraded jackson-databind to 2.21.5
